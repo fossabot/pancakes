@@ -1,1 +1,1 @@
-pancakes repository
+pancakes are tasty
