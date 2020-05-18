@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "jquery": "^2.2.0",
-    "uglify-js": "1.0.6"
+    "uglify-js": "2.6.0"
   }
 }
